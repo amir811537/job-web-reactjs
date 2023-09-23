@@ -19,7 +19,7 @@ const [dataLength,setDataLength]=useState(4)
     return (
         <div>
         <div className="text-center">
-          <h3 className="text-3xl md:text-5xl">Future Jobs: {jobs.length}</h3>
+          <h3 className="text-3xl text-bold md:text-5xl">Future Jobs: {jobs.length}</h3>
           <p>Explore thousands of job opportunities with all the information you need. It's your future</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
