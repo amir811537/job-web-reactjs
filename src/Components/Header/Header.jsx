@@ -55,7 +55,7 @@ const Header = () => {
         <ul className="menu menu-horizontal px-1">{links}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Appaly Now</a>
+        <a className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF]">Appaly Now</a>
       </div>
     </div>
   );

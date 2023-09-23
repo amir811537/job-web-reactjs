@@ -34,7 +34,8 @@ const router = createBrowserRouter([
       },
       {
         path:'/appled',
-        element:<Appled></Appled>
+        element:<Appled></Appled>,
+        loader: ()=>fetch('/jobs.json')
       },
       {
         path:'/statistics',
