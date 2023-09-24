@@ -1,5 +1,5 @@
 [
-     {
+  {
       "id": 1,
       "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
       "job_title": "Technical Database Engineer",
@@ -8,110 +8,377 @@
       "location": "Dhaka, Bangladesh",
       "job_type": "Full Time",
       "salary": "100k-150k",
-      "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
       "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-      "educational_requirements": "Bachelor degree to complete any reputational university.",
+      "educational_requirements": "Bachelor degree to complete any reputable university.",
       "experiences": "2-3 Years in this field.",
       "contact_information": {
-        "phone": "01750-00 00 00",
-        "email": "info@gmail.com",
-        "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
       }
-    },
-    {
-        "id": 2,
-        "logo": "https://thumbs.dreamstime.com/z/netflix-logo-isolated-los-gatos-california-united-states-august-netflix-logo-isolated-sign-headquarters-building-126083376.jpg?w=992",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
+  },
+  {
+      "id": 2,
+      "logo": "https://thumbs.dreamstime.com/z/netflix-logo-isolated-los-gatos-california-united-states-august-netflix-logo-isolated-sign-headquarters-building-126083376.jpg?w=992",
+      "job_title": "Senior Product Designer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor degree to complete any reputable university.",
+      "experiences": "2-3 Years in this field.",
+      "contact_information": {
           "phone": "01750-00 00 00",
           "email": "info@gmail.com",
           "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 3,
-        "logo": "https://www.logobee.com/uploads/tesla-logo.png",
-        "job_title": "Software Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": " A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 4,
-        "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
-        "job_title": "Software Engineer",
-        "company_name": "Google LLC",
-        "remote_or_onsite": "Onsite",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 5,
-        "logo": "https://www.logobee.com/uploads/tesla-logo.png",
-        "job_title": "Technical Database Engineer",
-        "company_name": "Tesla",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
-      },
-      {
-        "id": 6,
-        "logo": "https://thumbs.dreamstime.com/z/netflix-logo-isolated-los-gatos-california-united-states-august-netflix-logo-isolated-sign-headquarters-building-126083376.jpg?w=992",
-        "job_title": "Senior Product Designer",
-        "company_name": "Netflix",
-        "remote_or_onsite": "Remote",
-        "location": "Dhaka, Bangladesh",
-        "job_type": "Full Time",
-        "salary": "100k-150k",
-        "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
-        "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
-        "educational_requirements": "Bachelor degree to complete any reputational university.",
-        "experiences": "2-3 Years in this field.",
-        "contact_information": {
-          "phone": "01750-00 00 00",
-          "email": "info@gmail.com",
-          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
-        }
       }
-  
-  ]
+  },
+  {
+      "id": 3,
+      "logo": "https://www.logobee.com/uploads/tesla-logo.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor degree to complete any reputable university.",
+      "experiences": "2-3 Years in this field.",
+      "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+  },
+  {
+      "id": 4,
+      "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Onsite",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor degree to complete any reputable university.",
+      "experiences": "2-3 Years in this field.",
+      "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+  },
+  {
+      "id": 5,
+      "logo": "https://www.logobee.com/uploads/tesla-logo.png",
+      "job_title": "Technical Database Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor degree to complete any reputable university.",
+      "experiences": "2-3 Years in this field.",
+      "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+  },
+  {
+      "id": 6,
+      "logo": "https://thumbs.dreamstime.com/z/netflix-logo-isolated-los-gatos-california-united-states-august-netflix-logo-isolated-sign-headquarters-building-126083376.jpg?w=992",
+      "job_title": "Senior Product Designer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Remote",
+      "location": "Dhaka, Bangladesh",
+      "job_type": "Full Time",
+      "salary": "100k-150k",
+      "job_description": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor degree to complete any reputable university.",
+      "experiences": "2-3 Years in this field.",
+      "contact_information": {
+          "phone": "01750-00 00 00",
+          "email": "info@gmail.com",
+          "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+      }
+  },
+  {
+      "id": 7,
+      "logo": "https://www.example.com/company1-logo.png",
+      "job_title": "Frontend Developer",
+      "company_name": "ABC Technologies",
+      "remote_or_onsite": "Remote",
+      "location": "New York, USA",
+      "job_type": "Full Time",
+      "salary": "80k-120k",
+      "job_description": "A Frontend Developer is responsible for creating user-friendly web interfaces using HTML, CSS, and JavaScript.",
+      "job_responsibility": "Collaborate with the design team to implement user interface elements, optimize web performance, and ensure cross-browser compatibility.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "3-5 years of frontend development experience.",
+      "contact_information": {
+          "phone": "123-456-7890",
+          "email": "hr@abc-tech.com",
+          "address": "123 Main St, New York, USA"
+      }
+  },
+  {
+      "id": 8,
+      "logo": "https://www.example.com/company2-logo.png",
+      "job_title": "Data Scientist",
+      "company_name": "Data Insights Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, USA",
+      "job_type": "Full Time",
+      "salary": "90k-130k",
+      "job_description": "A Data Scientist analyzes and interprets complex data sets to inform business decision-making.",
+      "job_responsibility": "Develop data models, conduct statistical analysis, and present actionable insights to stakeholders.",
+      "educational_requirements": "Master's degree in Data Science or related field.",
+      "experiences": "2-4 years of data science experience.",
+      "contact_information": {
+          "phone": "555-123-4567",
+          "email": "jobs@datainsights.com",
+          "address": "456 Oak St, San Francisco, USA"
+      }
+  },
+  {
+      "id": 9,
+      "logo": "https://www.example.com/company3-logo.png",
+      "job_title": "UX/UI Designer",
+      "company_name": "Design Innovations Ltd.",
+      "remote_or_onsite": "Onsite",
+      "location": "London, UK",
+      "job_type": "Full Time",
+      "salary": "70k-110k",
+      "job_description": "A UX/UI Designer creates intuitive and visually appealing user interfaces for digital products.",
+      "job_responsibility": "Collaborate with cross-functional teams, conduct user research, and create wireframes and prototypes.",
+      "educational_requirements": "Bachelor's degree in Design or related field.",
+      "experiences": "3-5 years of UX/UI design experience.",
+      "contact_information": {
+          "phone": "+44 20 1234 5678",
+          "email": "careers@design-innovations.com",
+          "address": "789 Park Lane, London, UK"
+      }
+  },
+  {
+      "id": 10,
+      "logo": "https://www.example.com/company4-logo.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tech Innovators Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Austin, USA",
+      "job_type": "Full Time",
+      "salary": "85k-125k",
+      "job_description": "A Software Engineer develops and maintains software applications to meet business needs.",
+      "job_responsibility": "Write code, perform debugging, and collaborate with the development team to deliver high-quality software.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "2-4 years of software engineering experience.",
+      "contact_information": {
+          "phone": "512-987-6543",
+          "email": "jobs@tech-innovators.com",
+          "address": "321 Tech Blvd, Austin, USA"
+      }
+  },
+  {
+      "id": 11,
+      "logo": "https://www.example.com/company5-logo.png",
+      "job_title": "Digital Marketing Specialist",
+      "company_name": "Marketing Producers Ltd.",
+      "remote_or_onsite": "Remote",
+      "location": "Los Angeles, USA",
+      "job_type": "Full Time",
+      "salary": "75k-115k",
+      "job_description": "A Digital Marketing Specialist develops and executes online marketing campaigns.",
+      "job_responsibility": "Manage social media, analyze data, and optimize digital marketing strategies.",
+      "educational_requirements": "Bachelor's degree in Marketing or related field.",
+      "experiences": "3-5 years of digital marketing experience.",
+      "contact_information": {
+          "phone": "800-555-1234",
+          "email": "careers@marketingpros.com",
+          "address": "567 Marketing Street, Los Angeles, USA"
+      }
+  },
+  {
+      "id": 12,
+      "logo": "https://www.example.com/company6-logo.png",
+      "job_title": "Product Manager",
+      "company_name": "Product Innovations Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "Seattle, USA",
+      "job_type": "Full Time",
+      "salary": "95k-135k",
+      "job_description": "A Product Manager defines and leads the development of software products.",
+      "job_responsibility": "Set product strategy, prioritize features, and work with development teams to deliver successful products.",
+      "educational_requirements": "Bachelor's degree in Business or related field.",
+      "experiences": "4-6 years of product management experience.",
+      "contact_information": {
+          "phone": "206-555-7890",
+          "email": "jobs@product-innovations.com",
+          "address": "123 Innovation Drive, Seattle, USA"
+      }
+  },
+  {
+      "id": 13,
+      "logo": "https://www.example.com/company7-logo.png",
+      "job_title": "Data Analyst",
+      "company_name": "Data Insights Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Chicago, USA",
+      "job_type": "Full Time",
+      "salary": "70k-110k",
+      "job_description": "A Data Analyst interprets data to inform business decisions and strategies.",
+      "job_responsibility": "Analyze data sets, create reports, and present findings to stakeholders.",
+      "educational_requirements": "Bachelor's degree in Statistics or related field.",
+      "experiences": "2-4 years of data analysis experience.",
+      "contact_information": {
+          "phone": "312-555-6789",
+          "email": "careers@datainsights.com",
+          "address": "456 Data Street, Chicago, USA"
+      }
+  },
+  {
+    "id": 14,
+    "logo": "https://www.example.com/company8-logo.png",
+    "job_title": "Network Administrator",
+    "company_name": "Tech Solutions Ltd.",
+    "remote_or_onsite": "Onsite",
+    "location": "Toronto, Canada",
+    "job_type": "Full Time",
+    "salary": "80k-120k",
+    "job_description": "A Network Administrator manages and maintains an organization's computer networks and systems.",
+    "job_responsibility": "Configure and maintain network hardware, troubleshoot network issues, and ensure network security.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+    "experiences": "3-5 years of network administration experience.",
+    "contact_information": {
+        "phone": "+1 416-555-7890",
+        "email": "jobs@techsolutions.com",
+        "address": "789 Tech Street, Toronto, Canada"
+    }
+},
+{
+    "id": 15,
+    "logo": "https://www.example.com/company9-logo.png",
+    "job_title": "Content Writer",
+    "company_name": "Creative Media Group",
+    "remote_or_onsite": "Remote",
+    "location": "London, UK",
+    "job_type": "Full Time",
+    "salary": "60k-90k",
+    "job_description": "A Content Writer creates engaging and informative content for various digital platforms.",
+    "job_responsibility": "Write articles, blog posts, and social media content, conduct research, and edit and proofread content.",
+    "educational_requirements": "Bachelor's degree in English, Journalism, or related field.",
+    "experiences": "2-4 years of content writing experience.",
+    "contact_information": {
+        "phone": "+44 20 5678 1234",
+        "email": "careers@creativemedia.com",
+        "address": "456 Media Lane, London, UK"
+    }
+},
+{
+    "id": 16,
+    "logo": "https://www.example.com/company10-logo.png",
+    "job_title": "HR Manager",
+    "company_name": "HR Solutions Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Chicago, USA",
+    "job_type": "Full Time",
+    "salary": "90k-130k",
+    "job_description": "An HR Manager oversees human resources functions, including recruitment, employee relations, and benefits administration.",
+    "job_responsibility": "Manage HR processes, lead recruitment efforts, resolve employee issues, and ensure compliance with labor laws.",
+    "educational_requirements": "Bachelor's degree in Human Resources or related field.",
+    "experiences": "4-6 years of HR management experience.",
+    "contact_information": {
+        "phone": "312-555-9876",
+        "email": "jobs@hrsolutions.com",
+        "address": "123 HR Avenue, Chicago, USA"
+    }
+},
+{
+  "id": 17,
+  "logo": "https://www.example.com/company11-logo.png",
+  "job_title": "Financial Analyst",
+  "company_name": "Financial Consultants Ltd.",
+  "remote_or_onsite": "Remote",
+  "location": "New York, USA",
+  "job_type": "Full Time",
+  "salary": "85k-125k",
+  "job_description": "A Financial Analyst analyzes financial data to provide insights and recommendations for investment decisions.",
+  "job_responsibility": "Conduct financial analysis, prepare reports, and assist in investment portfolio management.",
+  "educational_requirements": "Bachelor's degree in Finance or related field.",
+  "experiences": "3-5 years of financial analysis experience.",
+  "contact_information": {
+      "phone": "123-555-7890",
+      "email": "careers@financialconsultants.com",
+      "address": "789 Finance Street, New York, USA"
+  }
+},
+{
+  "id": 18,
+  "logo": "https://www.example.com/company12-logo.png",
+  "job_title": "Sales Manager",
+  "company_name": "SalesPro Enterprises",
+  "remote_or_onsite": "Onsite",
+  "location": "Los Angeles, USA",
+  "job_type": "Full Time",
+  "salary": "95k-135k",
+  "job_description": "A Sales Manager leads and manages a sales team to achieve revenue targets and sales goals.",
+  "job_responsibility": "Develop sales strategies, lead sales teams, and analyze sales data to drive business growth.",
+  "educational_requirements": "Bachelor's degree in Business or related field.",
+  "experiences": "4-6 years of sales management experience.",
+  "contact_information": {
+      "phone": "800-123-4567",
+      "email": "jobs@salespro.com",
+      "address": "567 Sales Street, Los Angeles, USA"
+  }
+},
+{
+  "id": 19,
+  "logo": "https://www.example.com/company13-logo.png",
+  "job_title": "Graphic Designer",
+  "company_name": "DesignCraft Studios",
+  "remote_or_onsite": "Remote",
+  "location": "San Francisco, USA",
+  "job_type": "Full Time",
+  "salary": "70k-110k",
+  "job_description": "A Graphic Designer creates visual content and graphics for digital and print media.",
+  "job_responsibility": "Design marketing materials, website graphics, and promotional visuals.",
+  "educational_requirements": "Bachelor's degree in Graphic Design or related field.",
+  "experiences": "2-4 years of graphic design experience.",
+  "contact_information": {
+      "phone": "415-555-6789",
+      "email": "careers@designcraft.com",
+      "address": "456 Design Lane, San Francisco, USA"
+  }
+},
+{
+  "id": 20,
+  "logo": "https://www.example.com/company14-logo.png",
+  "job_title": "Quality Assurance Tester",
+  "company_name": "QualityTech Solutions",
+  "remote_or_onsite": "Onsite",
+  "location": "Toronto, Canada",
+  "job_type": "Full Time",
+  "salary": "80k-120k",
+  "job_description": "A Quality Assurance Tester ensures the quality and functionality of software products through testing and analysis.",
+  "job_responsibility": "Create test plans, execute test cases, and report and track software defects.",
+  "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+  "experiences": "3-5 years of quality assurance testing experience.",
+  "contact_information": {
+      "phone": "+1 416-123-4567",
+      "email": "jobs@qualitytech.com",
+      "address": "789 Quality Street, Toronto, Canada"
+  }
+}
+
+
+]

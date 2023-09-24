@@ -5,7 +5,7 @@ import Job from "./Job/Job";
 const Futurejobs = () => {
 
     const [jobs,setjobs]=useState([]);
-const [dataLength,setDataLength]=useState(4)
+const [dataLength,setDataLength]=useState(10)
 
 
     useEffect(()=>{
