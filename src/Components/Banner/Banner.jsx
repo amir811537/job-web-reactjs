@@ -21,7 +21,7 @@ const Banner = () => {
         {/* Right Side (Image) */}
         <div className="md:w-1/2 mt-6 md:mt-0">
           <img
-            src="/src/assets/user.png"
+            src="/assets/user.png"
             alt="Banner Image"
             className="w-full h-auto"
           />

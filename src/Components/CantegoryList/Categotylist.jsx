@@ -14,7 +14,7 @@ const Categotylist = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         <div className="bg-gray-50 rounded p-7">
           <div>
-            <img src="/src/assets/icons/accounts.png" alt="" />
+            <img src="/assets/icons/accounts.png" alt="" />
           </div>
           <div>
             <p>Account & Finance</p>
@@ -24,7 +24,7 @@ const Categotylist = () => {
 
         <div className="bg-gray-50 p-7">
           <div>
-            <img src="/src/assets/icons/creative.png" alt="" />
+            <img src="/assets/icons/creative.png" alt="" />
           </div>
           <div>
             <p>Creative Design</p>
